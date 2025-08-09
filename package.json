@@ -1,0 +1,14 @@
+{
+  "name": "bmc",
+  "version": "1.0.0",
+  "description": "Con estes desarrollo se pretende acceder a un número mayor de clientes y con ello mejorar los ingresos obtenidos para la empresea, el proyecto se desarrolla con java script, html, bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Jesús Ramírez León",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  }
+}
